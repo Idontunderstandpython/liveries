@@ -132,11 +132,10 @@
                  {
                     "name": "UAE Flanker",
                     "texture": [
-                        "https://ibb.co/k2W26X72"
+                        "https://i.ibb.co/v4K4vkF4/UAEAF-Su-35.jpg"
                     ],
                     "credits": "Nadech"
-                },
-                 
+                }
             ],
             "labels": [
                 "Texture"
@@ -148,10 +147,10 @@
                  {
                     "name": "UAEAF Concorde",
                     "texture": [
-                        "https://ibb.co/1f2rGPzZ"
+                        "https://i.ibb.co/PZCcGPDx/UAEAF-Concorde.png"
                     ],
                     "credits": "Nadech"
-                },
+                }
             ],
             "labels": [
                 "Texture"
@@ -335,10 +334,10 @@
             "liveries": [ {
                     "name": "UAEAF P8i",
                     "texture": [
-                        "https://ibb.co/TxXTCkv1"
+                        "https://i.ibb.co/tTfhd4mz/UAEp8i.png"
                     ],
                     "credits": "Boeing737-8Max"
-                },
+                }
             ],
             "labels": [
                 "Texture"
@@ -446,7 +445,7 @@
                {
                     "name": "UAE Special Flights and Captures",
                     "texture": [
-                        "https://ibb.co/jv4ZQgQ5"
+                        "https://i.ibb.co/zhfHBGB5/uaeneo.png"
                     ],
                     "credits": "Raptor4001"
                 },
@@ -454,7 +453,7 @@
               {
                     "name": "UAE Special Flights and Captures, with cockpit mask",
                     "texture": [
-                        "https://ibb.co/XxdrDLmm"
+                        "https://i.ibb.co/CKX368xx/a330neo-UAEAFF.png"
                     ],
                     "credits": "Boeing737-8Max"
                 }
@@ -652,8 +651,8 @@
                 {
                     "name": "UAE Stealth 01",
                     "texture": [
-                        "https://ibb.co/Kp78HwjM",
-                        "https://ibb.co/ccCbWgbb"
+                        "https://i.ibb.co/gLwcCVM5/uaef22-02.png",
+                        "https://i.ibb.co/xSfmnCmm/spritofamerica-shader.png"
                     ],
                     "credits": "Raptor4001"
                 },
@@ -661,7 +660,7 @@
               {
                     "name": "UAE Stealth 02",
                     "texture": [
-                        "https://ibb.co/SXStMKZq",
+                        "https://i.ibb.co/hR0B4KTp/uaef22.png",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
                     ],
                     "credits": "Raptor4001"
@@ -670,8 +669,8 @@
                {
                     "name": "Raptor_Personal",
                     "texture": [
-                        "https://ibb.co/sddCBgB7",
-                        "https://ibb.co/ccCbWgbb"
+                        "https://i.ibb.co/G449hdhm/f-22lightning.png",
+                        "https://i.ibb.co/xSfmnCmm/spritofamerica-shader.png"
                     ],
                     "credits": "Raptor4001"
                 },
@@ -679,11 +678,11 @@
               {
                     "name": "Raptor_Personal 02",
                     "texture": [
-                        "https://ibb.co/1YxTw2f5",
-                        "https://ibb.co/ccCbWgbb"
+                        "https://i.ibb.co/p6pd9Xv8/f-22-new.png",
+                        "https://i.ibb.co/xSfmnCmm/spritofamerica-shader.png"
                     ],
                     "credits": "Raptor4001"
-                },
+                }
             ],
             "labels": [
                 "Texture",
@@ -720,10 +719,10 @@
                 {
                     "name": "UAE Lightning",
                     "texture": [
-                        "https://ibb.co/TMyVXbkk"
+                        "https://i.ibb.co/nMpH2nbb/uaef35.png"
                     ],
                     "credits": "Raptor4001"
-                },
+                }
             ],
             "labels": [
                 "Texture"
@@ -735,10 +734,10 @@
                 {
                     "name": "UAE F-15",
                     "texture": [
-                        "https://ibb.co/PZLvh2G8"
+                        "https://i.ibb.co/DDJHCBfn/uae-f15.png"
                     ],
                     "credits": "Raptor4001"
-                },
+                }
             ],
             "labels": [
                 "Texture"
@@ -769,7 +768,7 @@
                  {
                     "name": "UAE Rafale",
                     "texture": [
-                        "https://ibb.co/YFcP5mfj"
+                        "https://i.ibb.co/cS6kW02T/rafaleuae.jpg"
                     ],
                     "credits": "Raptor4001"
                 }
@@ -823,11 +822,10 @@
                 {
                     "name": "UAE Mirage F1",
                     "texture": [
-                        "https://ibb.co/JWCtQGT5"
+                        "https://i.ibb.co/cKx3LZ9D/Mirage-F1-Desert-livery-template.png"
                     ],
                     "credits": "No Idea"
-                },
-              
+                }
             ],
             "labels": [
                 "Texture"
@@ -874,10 +872,10 @@
                  {
                     "name": "UAE J-20",
                     "texture": [
-                        "https://ibb.co/spmJnLDX"
+                        "https://i.ibb.co/Xf2k1mdG/UAEChengdu.png"
                     ],
                     "credits": "Boeing-7378-Max"
-                },
+                }
             ],
             "labels": [
                 "Texture"
@@ -987,3 +985,4 @@
             ]
         }
     }
+}
