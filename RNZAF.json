@@ -132,7 +132,7 @@
                  {
                     "name": "RNZAF Flanker 01",
                     "texture": [
-                        "https://ibb.co/DDdjDB91"
+                        "https://i.ibb.co/HDZ9DctK/RNZAF-su35.png"
                     ],
                     "credits": "Raptor4001"
                 },
@@ -140,7 +140,7 @@
                 {
                     "name": "RNZAF Flanker 1 Year Anniversary",
                     "texture": [
-                        "https://ibb.co/G4MdN5rw"
+                        "https://i.ibb.co/Rk6gdDJn/RNZAF-aaniv.png"
                     ],
                     "credits": "Raptor4001"
                 },
@@ -155,7 +155,7 @@
                   {
                     "name": "Special Captures Supersonic Transport",
                     "texture": [
-                        "https://ibb.co/wNqspRnD"
+                        "https://i.ibb.co/qYxTdhHc/RNZAF-concorde.jpg"
                     ],
                     "credits": "Raptor4001"
                 }
@@ -341,6 +341,13 @@
         "3292": {
             "name": "Boeing p8I Neptune",
             "liveries": [
+                  {
+                    "name": "RNZAF AWACS",
+                    "texture":  "texture": [
+                        "https://i.ibb.co/Rk58C393/RNZAF-p8i.png"
+                    ],
+                    "credits": "QFA124"
+                }
             ],
             "labels": [
                 "Texture"
@@ -446,9 +453,9 @@
             "name": "Airbus a330-900neo",
             "liveries": [
                {
-                    "name": "RNZAF Special Flights and Captures",
-                    "texture": [
-                        ""
+                    "name": "RNZAF Operations Subsonic",
+                    "texture":  "texture": [
+                        "https://i.ibb.co/V00DRBBd/RNZAF-a330.png"
                     ],
                     "credits": "QFA124"
                 }
@@ -471,12 +478,26 @@
                   {
                     "name": "RNZAF F-16 One Year Anniversarys",
                     "texture": [
-                        "https://ibb.co/mCFwCqmj",
-                        "https://ibb.co/ccCbWgbb"
+                        "https://i.ibb.co/C5sZ57qc/f-16blank.png",
                     ],
                     "credits": "Raptor4001"
                 },
-
+               
+               {
+                    "name": "RNZAF F-16 01",
+                    "texture": [
+                        "https://i.ibb.co/B2tTjcCD/RNZAF-F-16-BB-Final.jpg",
+                    ],
+                    "credits": "Bigbwoi69"
+                },
+                 
+            {
+              "name": "RNZAF F-16 02",
+                    "texture": [
+                        "https://i.ibb.co/GjsjQ06/rnzaf-f16-made-by-me.png",
+                    ],
+                    "credits": "aatw001"
+                },
                ],
             "labels": [
                 "Texture"
@@ -597,6 +618,13 @@
         "27": {
             "name": "McDonell Douglas - Boeing F/A-18F Super Hornet",
             "liveries": [
+                    {
+                    "name": "RNZAF F-18 41 Squadron",
+                    "texture": [
+                        "https://i.ibb.co/m5SB8d2h/rnzaf-f18-41sqn.jpg",
+                    ],
+                    "credits": "DLH680"
+                },
             ],
             "labels": [
                 "Texture"
@@ -641,7 +669,13 @@
         "5193": {
             "name": "Boeing b747-8I",
             "liveries": [
-                
+                 {
+                    "name": "RNZS Wellington Naval",
+                    "texture": [
+                        "https://i.ibb.co/xKq8PJFB/RNZS-WELLINGTON-747-8i.png",
+                    ],
+                    "credits": "Bigbwoi69"
+                },
             ],
             "labels": [
                 "Texture",
@@ -655,8 +689,8 @@
                 {
                     "name": "RNZAF Stealth 01",
                     "texture": [
-                        "https://ibb.co/F4jRhJmJ",
-                        "https://ibb.co/ccCbWgbb"
+                        "https://i.ibb.co/9HCQp2c2/RNZAFRAPTOR.png",
+                        "https://i.ibb.co/xSfmnCmm/spritofamerica-shader.png"
                     ],
                     "credits": "Raptor4001"
                 },
@@ -665,8 +699,8 @@
                {
                     "name": "Raptor_Personal",
                     "texture": [
-                        "https://ibb.co/sddCBgB7",
-                        "https://ibb.co/ccCbWgbb"
+                        "https://i.ibb.co/4ZyDVFjj/F-22spiritofamericarevamp.png",
+                        "https://i.ibb.co/xSfmnCmm/spritofamerica-shader.png"
                     ],
                     "credits": "Raptor4001"
                 }
@@ -706,7 +740,7 @@
                 {
                     "name": "One Year Anniversary",
                     "texture": [
-                        "https://ibb.co/zhNwYcmh"
+                        "https://i.ibb.co/wNY1XHdN/annivlight.png"
                     ],
                     "credits": "Raptor4001"
                 }
@@ -721,7 +755,7 @@
                  {
                     "name": "RNZAF F-15C",
                     "texture": [
-                        "https://ibb.co/tTd4p05p"
+                        "https://i.ibb.co/5g76hQVh/rnzaf-f-15.png"
                     ],
                     "credits": "Raptor4001"
                 }
@@ -751,14 +785,7 @@
         "29": {
             "name": "Dassault Rafale",
             "liveries": [
-                 {
-                    "name": "UAE Rafale",
-                    "texture": [
-                        "https://ibb.co/YFcP5mfj"
-                    ],
-                    "credits": "Raptor4001"
-                }
-                
+            
             ],
             "labels":[
                 "Normal map",
@@ -852,7 +879,7 @@
                  {
                     "name": "RNZAF J-20",
                     "texture": [
-                        "https://ibb.co/chQgZVzJ"
+                        "https://i.ibb.co/3mcrjQt1/j20rnzaf.png"
                     ],
                     "credits": "Raptor4001"
                 }
