@@ -473,6 +473,13 @@
         "7": {
             "name": "General Dynamics F16 Fighting Falcon",
             "liveries": [
+                 {
+                    "name": "Al Nasr Demonstration Team - 4 ",
+                    "texture": [
+                        "https://i.ibb.co/C3pLs3kH/Nasr-Al-Emarat-4.png"
+                    ],
+                    "credits": "BorecPepik"
+                }
             ],
             "labels": [
                 "Texture"
@@ -665,6 +672,15 @@
                     ],
                     "credits": "Raptor4001"
                 },
+              
+               {
+                    "name": "UAE Stealth 03",
+                    "texture": [
+                        "https://i.ibb.co/xK2JzKDW/F-22-UAEAF.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/main/liveries/f22/shaders/F22Texture.001.png"
+                    ],
+                    "credits": "BorecPepik"
+                },
 
                {
                     "name": "Raptor_Personal",
@@ -722,6 +738,13 @@
                         "https://i.ibb.co/nMpH2nbb/uaef35.png"
                     ],
                     "credits": "Raptor4001"
+                },
+                {
+                    "name": "UAE Lightning 2 - Desert Ghost",
+                    "texture": [
+                        "https://i.ibb.co/Ng4CHnPr/at01desertcamo.png"
+                    ],
+                    "credits": "Arnold"
                 }
             ],
             "labels": [
@@ -768,10 +791,35 @@
                  {
                     "name": "UAE Rafale",
                     "texture": [
+                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg"
                         "https://i.ibb.co/cS6kW02T/rafaleuae.jpg"
+                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg"
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg" 
                     ],
                     "credits": "Raptor4001"
-                }
+                },
+              
+            {
+                    "name": "UAE Rafale Realistic",
+                    "texture": [
+                     "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg"
+                        "https://i.ibb.co/rnVNZ4t/Rafale-UAEAF-2.png"
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg"
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
+                    ],
+                    "credits": "BorecPepik"
+                },
+                
+            {
+                    "name": "UAE Rafale 3",
+                    "texture": [
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg"
+                        "https://i.ibb.co/qLnJWM3F/Rafale-UAEAF-1.png"
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg"
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
+                    ],
+                    "credits": "BorecPepik"
+                }          
                 
             ],
             "labels":[
