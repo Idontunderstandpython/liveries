@@ -791,9 +791,9 @@
                  {
                     "name": "UAE Rafale",
                     "texture": [
-                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg"
-                        "https://i.ibb.co/cS6kW02T/rafaleuae.jpg"
-                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg"
+                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
+                        "https://i.ibb.co/cS6kW02T/rafaleuae.jpg",
+                       "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg" 
                     ],
                     "credits": "Raptor4001"
@@ -802,9 +802,9 @@
             {
                     "name": "UAE Rafale Realistic",
                     "texture": [
-                     "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg"
-                        "https://i.ibb.co/rnVNZ4t/Rafale-UAEAF-2.png"
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg"
+                     "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
+                        "https://i.ibb.co/rnVNZ4t/Rafale-UAEAF-2.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
                     ],
                     "credits": "BorecPepik"
@@ -813,9 +813,9 @@
             {
                     "name": "UAE Rafale 3",
                     "texture": [
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg"
-                        "https://i.ibb.co/qLnJWM3F/Rafale-UAEAF-1.png"
-                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg"
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/normal/Image_0.jpg",
+                        "https://i.ibb.co/qLnJWM3F/Rafale-UAEAF-1.png",
+                        "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/specular/Image_2.jpg",
                         "https://raw.githubusercontent.com/kolos26/GEOFS-LiverySelector/refs/heads/main/liveries/dessault_rafale/cockpit/Image_4.jpg"
                     ],
                     "credits": "BorecPepik"
